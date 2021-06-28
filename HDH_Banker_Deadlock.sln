@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HDH_Banker_Deadlock", "HDH_Banker_Deadlock\HDH_Banker_Deadlock.vcxproj", "{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Debug|x64.ActiveCfg = Debug|x64
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Debug|x64.Build.0 = Debug|x64
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Debug|x86.Build.0 = Debug|Win32
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Release|x64.ActiveCfg = Release|x64
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Release|x64.Build.0 = Release|x64
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Release|x86.ActiveCfg = Release|Win32
+		{EAE87BD0-3F12-45AC-ACBD-4039FE42CC97}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3CA9951-B1D4-4585-8979-CF98C9A1CEDC}
+	EndGlobalSection
+EndGlobal
